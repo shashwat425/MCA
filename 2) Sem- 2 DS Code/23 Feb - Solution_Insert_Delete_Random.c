@@ -119,7 +119,7 @@ int main( )
     
     for(i=0;i<n;i++)
     {
-		number=(rand() % (100-1 + 1)) + 1;
+	number=(rand() % (100-1 + 1)) + 1;
         creation(&head, number);
     }
     
