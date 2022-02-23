@@ -142,7 +142,6 @@ int main( )
 		printf(" Element Not Found !!! ");
 		printf("\n\n Linked List after inserting the new element : \n");
 		creation(&head, num);
-
 		show(&head);	
 	}	
 }
