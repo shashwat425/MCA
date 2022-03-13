@@ -1,0 +1,13 @@
+
+for((i=0;i<4;i++))
+do
+echo "Enter n:"
+read n
+if [[ $c == [AEIOUaeiou] ]]
+then
+s=$c
+fi
+done
+echo "Last vowel in $str is : $s"
+
+
