@@ -17,3 +17,5 @@ Assignment 5 : 9 March [Computer Lab 201 (Data Structure)-Assignment-5.pdf](http
 
 
 Assignment 6 : 15 March [Computer Lab 201 (Data Structure)-Assignment-6.pdf](https://github.com/shashwat425/MCA/files/8247801/Computer.Lab.201.Data.Structure.-Assignment-6.pdf)
+
+Assignment 7 : 16 March [Computer Lab 201 (Data Structure)-Assignment-7.pdf](https://github.com/shashwat425/MCA/files/8261159/Computer.Lab.201.Data.Structure.-Assignment-7.pdf)
